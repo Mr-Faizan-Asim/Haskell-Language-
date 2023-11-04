@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Your Haskell Project Readme</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        pre {
-            background-color: #f7f7f7;
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
 
 <h1>Your Haskell Project Readme</h1>
 
@@ -80,5 +55,3 @@ main = putStrLn "Hello, Haskell!"
     State the license under which your Haskell project is released. For example, "This project is licensed under the MIT License."
 </p>
 
-</body>
-</html>
